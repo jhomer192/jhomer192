@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jack Homer</h1>
-<h3 align="center">New Grad SWE with a degree in CS. Looking for</h3>
+<h3 align="center">New Grad with an engineering degree in CS. Looking for a full time SWE oppurtunity.</h3>
 
 - 🔭 I’m currently working on **A surfing social networking app**
 
