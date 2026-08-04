@@ -5,6 +5,13 @@ enterprise customers. BS Computer Science, Virginia Tech, 2023.
 
 Projects and write-ups: **[jackhomer.com](https://jackhomer.com)**
 
+### Writing
+
+**[A multi-agent translation pipeline: 1,081 documents at $2.31 each](https://jackhomer.com/writing/multi-agent-translation/)**
+1,081 documents translated English to Italian in 2.5 weeks for $2,495 total,
+against a $245-per-document vendor quote. A translator/critic/arbitrator loop,
+automated document reconstruction, and a 21-agent verification swarm.
+
 ### Things you can use right now
 
 **[Wikipedia Game Solver](https://jackhomer.com/wikipedia-game-solver/)**
