@@ -1,7 +1,8 @@
 ## Jack Homer
 
 Forward Deployed Engineer at C3 AI, building production AI for federal and
-enterprise customers. BS Computer Science, Virginia Tech, 2023.
+enterprise customers. BS Computer Science, Virginia Tech, 2023. San Francisco
+Bay Area.
 
 Projects and write-ups: **[jackhomer.com](https://jackhomer.com)**
 
@@ -22,6 +23,19 @@ path instead. Daily challenge, nothing to install.
 **[Connections Maker](https://jackhomer.com/connections-maker/)**
 Build a NYT-style word puzzle and share it as a link. The puzzle is encoded in
 the URL itself, so there is no account and no backend.
+
+**[Call It](https://callit.jackhomer.com)**
+Prediction markets for a group of friends, played with points instead of money.
+Prices move with an LMSR market maker, so every answer's price reads as the
+group's current odds. Sign up with a US phone number.
+
+**[Sticker Maker](https://stickers.jackhomer.com)**
+Tap the subject of a photo and a model running in the browser cuts it out as a
+sticker for iMessage, Discord, Telegram or WhatsApp. No account.
+
+**[Hotel Finder](https://jackhomer.com/hotel-finder/)**
+Every hotel OpenStreetMap knows about in 49 cities, on a map with star filters
+and booking links. No API key and no backend.
 
 **[Clocktower ST](https://jackhomer.com/clocktower/)**
 Storyteller tools for Blood on the Clocktower: script setup, role assignment,
