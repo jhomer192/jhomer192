@@ -31,11 +31,11 @@ group's current odds. Sign up with a US phone number.
 
 **[Sticker Maker](https://stickers.jackhomer.com)**
 Tap the subject of a photo and a model running in the browser cuts it out as a
-sticker for iMessage, Discord, Telegram or WhatsApp. No account.
+sticker, with exports sized for Discord, Telegram and WhatsApp. No account.
 
 **[Hotel Finder](https://jackhomer.com/hotel-finder/)**
-Every hotel OpenStreetMap knows about in 49 cities, on a map with star filters
-and booking links. No API key and no backend.
+Hotels from OpenStreetMap in 49 cities, up to 200 per city, on a map with star
+filters and booking links. No API key and no backend.
 
 **[Clocktower ST](https://jackhomer.com/clocktower/)**
 Storyteller tools for Blood on the Clocktower: script setup, role assignment,
