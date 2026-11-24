@@ -33,10 +33,6 @@ group's current odds. Sign up with a US phone number.
 Tap the subject of a photo and a model running in the browser cuts it out as a
 sticker, with exports sized for Discord, Telegram and WhatsApp. No account.
 
-**[Hotel Finder](https://jackhomer.com/hotel-finder/)**
-Hotels from OpenStreetMap in 49 cities, up to 200 per city, on a map with star
-filters and booking links. No API key and no backend.
-
 **[Clocktower ST](https://jackhomer.com/clocktower/)**
 Storyteller tools for Blood on the Clocktower: script setup, role assignment,
 night order, and grimoire bookkeeping.
@@ -50,4 +46,4 @@ Requires your own Spotify developer keys.
 **[Backpressure](https://github.com/jhomer192/backpressure)**
 Practice system-design interviews on your own machine. Draw an architecture on
 a canvas, an AI interviewer questions it, and you get a scored verdict. It runs
-against your existing Claude Code login, so nothing leaves your laptop.
+on your existing Claude Code login, so there's no API key, account or bill.
